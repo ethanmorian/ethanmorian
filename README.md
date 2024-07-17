@@ -3,6 +3,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ethanmorian" alt="GitHub Readme Stats">
+  </a>
+</p>
+
+<p align="center">
   <img src="./profile-3d-contrib/profile-season-animate.svg" alt="profile">
 </p>
 
