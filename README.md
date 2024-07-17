@@ -1,7 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi&section=header&reversal=false&fontAlign=50&animation=fadeIn&desc=there)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi&section=header&reversal=false&fontAlign=50&animation=fadeIn&desc=there" alt="header">
+</p>
 
-
-![](./profile-3d-contrib/profile-season-animate.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repository/main/profile-3d-contrib/profile-season-animate.svg" alt="profile">
+</p>
 
 <!--
 **ethanmorian/ethanmorian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
