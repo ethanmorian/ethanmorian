@@ -4,7 +4,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ethanmorian" alt="GitHub Readme Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ethanmorian&show icons=true&theme=graywhite" alt="GitHub Readme Stats">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanmorian&layout=compact" alt="Top Languages">
   </a>
 </p>
 
