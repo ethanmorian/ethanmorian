@@ -1,4 +1,5 @@
-![header]([https://capsule-render.vercel.app/api?type=slice](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi&section=header&reversal=false&fontAlign=50&animation=fadeIn&desc=there))
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi&section=header&reversal=false&fontAlign=50&animation=fadeIn&desc=there)
+
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
