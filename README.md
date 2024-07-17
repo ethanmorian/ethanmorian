@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repository/main/profile-3d-contrib/profile-season-animate.svg" alt="profile">
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="profile">
 </p>
 
 <!--
