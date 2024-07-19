@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:FFFFFF,100:000000&text=Hi&section=header&reversal=false&animation=fadeIn&desc=there" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:FFFFFF,100:000000&text=Hi&desc=there&animation=fadeIn&fontColor=ffffff" alt="header">
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethanmorian&theme=graywhite" alt="Profile Details">
   
